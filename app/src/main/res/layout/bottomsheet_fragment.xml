@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="451dp"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="Welcome to the Spell creator! Choose an element from the first list. Then choose your modifier in the second list. Finally, press complete to find out your created spell!"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+
+        />
+
+</LinearLayout>
